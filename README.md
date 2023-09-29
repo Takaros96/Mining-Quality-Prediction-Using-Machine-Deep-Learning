@@ -1,6 +1,6 @@
 In this project
 
-1)Data Visualization was performed  to find correlations between mining ingredients
+1)Data Visualizations were created  to find correlations between mining ingredients
 
 
 2)In regards with the Silica concentrate column in the dataset,linear regression,decision tree and random forest models were developed to predict the fields of that columns.their accuracy was evaluated as well
